@@ -31,7 +31,7 @@ function getRandomColor() {
     const value= Math.random();
 
     if (value > 0,2) {
-        return 'blue";
+        return 'blue';
     }
     else if (value > 0.4) {
         return'red';
@@ -43,7 +43,8 @@ function getRandomColor() {
         return'grey';
     }
     else {
-        return'pink;
+        return'pink';
     }
 
 }
+//hej
